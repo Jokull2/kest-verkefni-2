@@ -68,7 +68,16 @@ Open the same application in Desktop 2 that was opened in Desktop 1. What happen
 
 
 
- 11.1.3.4 Lab - Work with Task Manager
+ 11.1.3.4 Lab - Work with Task Manager 
+Part 1:
+e: well i use opera gx which saves your tabs but that might not happen to other browsers but the browser closes and shuts down your tabs. 
+f: End task, Go to details, Open file location, Search online og Properties
+
+Part 2: 
+b: Running – the service is currently active, Stopped – the service is not currently running
+c: Start, Stop, Restart, Open Services, Properties og Search online 
+
+
  
 
  
