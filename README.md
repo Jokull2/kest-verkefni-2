@@ -74,8 +74,121 @@ e: well i use opera gx which saves your tabs but that might not happen to other 
 f: End task, Go to details, Open file location, Search online og Properties
 
 Part 2: 
-b: Running – the service is currently active, Stopped – the service is not currently running
+b: Running, Stopped 
 c: Start, Stop, Restart, Open Services, Properties og Search online 
+
+Part 3:
+a: 40-50%
+b:2240
+apps: 3, Background processes: 65, windows processes: 101.
+c: 4069mb, 2048mb, 2048mb
+d:433mbps, realtek wifi adapter, Wi-Fi, 192.168.56.1
+
+
+Part 4:
+b: if i click it 2 times slow nothing happens but when i click it fast it minimizes into only the columns like memmory ethernet cpu etc. if you click on the heading itself it minimizes just to memmory.
+c: it doesent show recource value when i right click
+e: there is no "name" heading
+
+Part 5: 
+me/jokullsverrirheidarsson
+
+part 6:
+a:enable/disable, open file loation, search online og properties
+b: cpu time, network og notifications
+
+
+
+11.1.4.11
+
+Part 1: 
+e. Folder2 disappeared from the Desktop and is now inside Folder1.
+
+g. .txt
+
+h. Right click the text document, Copy then open Folder2 and Paste
+
+
+i. File name, File type, File size, Date created, Date modified, Read only 
+
+j. C:\Users\Jokul\Desktop\Folder1\Folder2\Folder3
+
+j. Desktop, Downloads, Documents, Pictures
+
+l. Folder1 was pinned to quick access , this allows faster access to the folder from file Explorer.
+
+m. Program Files, Program Files (x86), Users, Windows
+
+n. Default, Public, jokul
+
+o. Yes, idk
+
+p. No, idk
+
+q. Public Documents, Public Downloads, Public Music, Public Pictures, Public Videos
+
+Part 2: 
+c. Documents, Music, Pictures, Videos
+
+f. open Manage library select folder1 click remove
+
+c. Documents, Music, Pictures, Videos
+
+
+
+
+11.2.1.5
+
+Part 1: 
+b. Category, Large icons, Small icons
+
+c. System and security, network and Internet, Hardware and Sound, programs, User Accounts, Appearance and Personalization
+
+Part 2: 
+Which subcategory would help you troubleshoot common problems? troubleshooting
+
+Which subcategory allows a program through Windows Firewall? windows defender firewall
+
+Part 3: 
+Which subcategory allows you to view basic network information and set up connections? network and sharing center
+
+Part 4: 
+Which subcategory allows you to choose what happens when you insert media or a device? autoplay
+
+Which subcategory allows you to add a printer? devices and printers
+
+Part 5: 
+Which subcategory would you use to have a specific file type always open in a specified program? default programs
+
+Which subcategory would you use to uninstall a program? programs and features
+
+Which subcategory would you use to install the Windows Telnet client? programs and features then turn windows features on or off
+
+Part 6: 
+Which subcategory would you use to change the account type from administrator to standard? User Accounts
+
+Which subcategory would you use to view, edit, or remove web and Windows credentials? Credential Manager
+
+Part 7: 
+Which subcategory would you use to customize the Taskbar? Taskbar and Navigation
+
+Which subcategory would you use to show hidden files and folders? File Explorer Options
+
+Which subcategory would you use to show extensions for known file types? File Explorer Options
+
+Part 8: 
+Which subcategory would you use to change the time zone? Date and Time
+
+Which subcategory would you use to change the date format?region
+
+Which subcategory would you use to synchronize the time with an Internet server? Date and Time
+
+Part 9: 
+Which subcategory would you use to configure the computer to read text aloud? Narrator
+
+Which subcategory would you use to improve voice recognition and dictation accuracy? Speech Recognition
+
+
 
 
  
