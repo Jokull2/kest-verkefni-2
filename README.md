@@ -191,6 +191,66 @@ Which subcategory would you use to improve voice recognition and dictation accur
 
 
 
+11.2.2.3
+Part 2: 
+
+Question:
+What is the advantage of having most users work within a Standard user account? Standard user accounts improve security because they prevent users from installing software, changing system settings, or making system-wide changes without administrator approval. This reduces the risk of malware infections and accidental system damage.
+
+Part 3: 
+
+For this lab, select Delete Files. What are the other options? When would you choose the other options?: the other option is keep Files, You would choose Keep Files if the user is leaving the organization but their documents need to be saved for backup, transfer to another user, or company records.
+
+Reflection Questions
+ Why is it important to protect all accounts with strong passwords?: to prevent hackers or other people from signing into the account.
+
+ Why would you create a user with Standard privileges?: To limit what the user can change on the computer. This protects the system from accidental changes, unauthorized software installation, and security threats.
+
+ In what type of situation would an IT administrator delete a user account and choose to keep the files instead of deleting them?: When an employee leaves a company but their work files need to be saved for legal reasons, transferred to another employee, or archived for record-keeping.
+
+
+
+ 11.2.5.8
+
+ Part 1
+
+
+What is the current size of the virtual memory (paging file)?: 3328mb.
+
+Part 2
+
+What Drive [Volume Label] contains the paging file? C: [OS]
+
+What is the recommended paging file size for all drives?: 1887mb
+
+
+
+
+11.2.6.2
+
+
+Part 1
+
+What information is listed in the Device Manager window? Why would you use it?:Device Manager lists all the hardware installed on your computer grouped by category Display adapters, Network adapters, Monitors, Disk drives, It shows the status of devices, You use it to troubleshoot hardware problems, update drivers, uninstall devices, or check system resources.
+
+How would you install driver software for an older device that may not be automatically recognized by Windows?: Click Action, Add legacy hardware from the menu bar.Follow the wizard to manually install the driver from a disk, CD, or downloaded driver file.
+
+Part 2
+
+What additional information does Driver Details provide?: Lists the exact driver files installed for the device, including file paths and version numbers.Shows provider, date, and digital signature of each driver file.
+
+What two options do you have for updating the driver?Search automatically for updated driver software, Windows searches online for a newer driver.
+Browse my computer for driver software, You manually select a driver file on your PC.
+
+What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer. Why?: Roll Back Driver restores the previously installed driver version if the current driver causes problems. It is grayed out if there is no previous driver to roll back to.
+
+What are the other available options?: Disable Device,Uninstall Device, View Detail, Update Driver og Resources.
+
+
+
+
+
+
  
 
  
