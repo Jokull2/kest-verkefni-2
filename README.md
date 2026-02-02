@@ -248,6 +248,33 @@ What are the other available options?: Disable Device,Uninstall Device, View Det
 
 
 
+11.3.1.11
+
+
+Part 2: 
+
+
+What message did you receive? How would you fix this?: Message, "The Active Directory Domain Services is currently unavailable" or printer not available.
+Fix: Restart the Print Spooler service in Service
+
+
+When DHCP Client stops, what other services will also be stopped?: Network Location Awareness, DNS Client, TCP/IP NetBIOS Helper
+
+
+
+Why is it important to exercise care when managing services?: Stopping critical services can disable networking, printing, security protection, or even make the system unstable or unusable.
+
+Part 3: 
+
+
+
+What is the full path name to the example file name?: C:\PerfLogs\Memory Logs\DataCollector01.csv
+
+
+What does the column farthest to the right show? The Available MBytes value
+
+
+
 
 
 
