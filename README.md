@@ -274,6 +274,29 @@ What is the full path name to the example file name?: C:\PerfLogs\Memory Logs\Da
 What does the column farthest to the right show? The Available MBytes value
 
 
+11.3.2.7
+
+Part 1:
+
+What was the path you use to navigate to the Event Viewer? Management Tools, Event Viewer, Windows Logs, Application
+
+Part 2: 
+Question: What is the background picture?: The default Windows desktop background (varies by edition, e.g., Windows 11 “Windows Bloom”)
+
+
+Question: What is the data value of the Background?, 0 0 255 
+
+What is the data value of the Background? Compare the new value in the Registry to the value saved in BlueBKG.reg.:  255 0 0; this differs from the BlueBKG.reg value which was 0 0 255
+
+ What is the data value of the Background?: 0 0 255 
+
+ What is the color of the desktop? Blue
+
+ What is the color of the desktop after restart? Blue
+
+ 
+
+
 
 
 
